@@ -17,6 +17,7 @@ func (p PathValue) GetRequestPath(r *http.Request, name string) (bool, any, erro
 	return false, nil, nil
 }
 
+// NewPathValue returns an interface to extract path value from a gorilla/Mux context.
 func NewPathValue() *PathValue {
 	return &PathValue{}
 }
