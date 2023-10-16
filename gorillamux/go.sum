@@ -1,13 +1,13 @@
-github.com/rrgmc/inreq v0.8.6 h1:yTjCBgHAq6DDFI8+C+ykR4gjn5XKlUjEXH42fBpZQys=
-github.com/rrgmc/inreq v0.8.6/go.mod h1:9TxfZBDSTX1bkwgv4b/9UHcVUSyLAbcXgSl0cu/76sw=
-github.com/rrgmc/instruct v0.8.6 h1:ABE9DAQ8BABi1FbbawidZQQQRhwZZJE98n4YHAcUj+M=
-github.com/rrgmc/instruct v0.8.6/go.mod h1:IKuAbSEzfM7ucw8sMYKLvOj4cVd+wDpaQ0uQj2pYN7w=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
 github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/rrgmc/inreq v0.20.0 h1:RfGEEMfRaCQckST+/305u+zeZj0DYeDeFUHLOK4FRXs=
+github.com/rrgmc/inreq v0.20.0/go.mod h1:/AKl45KO87Z6VGexOiLTZ+J4Ti7j7QoBh5I4+Fo1U0I=
+github.com/rrgmc/instruct v0.20.0 h1:vqZMyzTYn4bWP0QRl9KW0clPH8r2aNv/1Agl7MxHCRQ=
+github.com/rrgmc/instruct v0.20.0/go.mod h1:P3HdmiHf9M4mvMEOZ+Pex9Zx2QujWse503aB7Q+3Fzw=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1 h1:k/i9J1pBpvlfR+9QsetwPyERsqu1GIbi967PQMq3Ivc=
