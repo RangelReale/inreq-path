@@ -5,9 +5,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/RangelReale/inreq"
-	"github.com/RangelReale/inreq-path/gorillamux"
 	"github.com/gorilla/mux"
+	"github.com/rrgmc/inreq"
+	"github.com/rrgmc/inreq-path/gorillamux"
 	"github.com/stretchr/testify/require"
 )
 

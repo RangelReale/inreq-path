@@ -1,4 +1,4 @@
-# inreq-path - Path functions for github.com/RangelReale/inreq 
+# inreq-path - Path functions for github.com/rrgmc/inreq 
 
 ## Implementations
 
